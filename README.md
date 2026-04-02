@@ -25,7 +25,7 @@ Proyek ini dibagi menjadi dua bagian utama:
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -49,7 +49,7 @@ Pastikan Anda sudah menginstal Node.js dan memiliki akses ke database PostgreSQL
 
 ---
 
-## 📝 Catatan Adaptasi & Tantangan
+## Catatan Adaptasi & Tantangan
 
 Dalam pengerjaan ini, saya menggunakan beberapa tech stack yang berbeda dari core stack harian saya. Tantangan ini memberikan pengalaman belajar yang luar biasa dalam waktu singkat, terutama dalam memahami:
 
