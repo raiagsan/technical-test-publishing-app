@@ -1,4 +1,4 @@
-# Publishing App - Technical Test
+# Publishing App - GITS.ID Technical Test
 
 Proyek ini adalah sistem manajemen katalog buku (Books, Authors, Publishers) yang dibangun menggunakan arsitektur Fullstack.
 
