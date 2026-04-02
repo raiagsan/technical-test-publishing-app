@@ -59,4 +59,4 @@ Dalam pengerjaan ini, saya menggunakan beberapa tech stack yang berbeda dari cor
 
 Meskipun terdapat kendala teknis pada tahap akhir integrasi login, saya telah memastikan struktur kode tetap modular dan mudah untuk dikembangkan lebih lanjut. Jika diberikan kesempatan, maka saya akan melanjutkan program ini hingga semua fiturnya dapat berjalan sesuai dengan requirement yang ditentukan.
 
-Terima kasih atas kesempatan yang diberikan pada technical test ini. Saya mohon maaf apabila terdapat kesalahan dan ke-tidak sempurnaan program ini.
+Terima kasih atas kesempatan yang diberikan pada technical test ini. Saya mohon maaf apabila terdapat kesalahan dan ke-tidak sempurnaan pada program ini.
